@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NTO Pass</string>
+    <string name="login_title">Log in to your account</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="login_btn">Login</string>
+    <string name="login_error">Login Error</string>
+    <string name="main_title">Main page</string>
+    <string name="logout_btn">Logout</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="scan_btn">Scan</string>
+    <string name="main_error">Error</string>
+    <string name="result_success_text">Success</string>
+    <string name="result_fail_text">Something wrong</string>
+    <string name="close_btn">Close</string>
+    <string name="result_null_text">Operation was cancelled</string>
+    <string name="password_hint">Enter the password</string>
+    <string name="history_title">Visit history</string>
+    <string name="login_unauthorized">Incorrect login or password</string>
+    <string name="search_hint">Enter the employee\'s username</string>
+    <string name="block_btn">Block</string>
+    <string name="unblock_btn">Unblock</string>
+    <string name="starter_tiser">Welcome to</string>
+    <string name="starter_tiser_accent">S Company Pass</string>
+    <string name="description">View visits and an electronic pass in one application</string>
+    <string name="admin_unauthorized">You are not logged in</string>
+    <string name="admin_forbidden">No access</string>
+    <string name="not_found">404\nEmployee not found</string>
+    <string name="admin_btn">Admin</string>
+</resources>

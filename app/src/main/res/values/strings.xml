@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NTO Pass</string>
+
+    <string name="login_title">Войти в аккаунт</string>
+    <string name="username_hint">Введите логин</string>
+    <string name="login_btn">Войти</string>
+    <string name="login_error">Ошибка логина</string>
+
+    <string name="main_title">Главная страница</string>
+    <string name="logout_btn">Выйти</string>
+    <string name="refresh_btn">Обновить</string>
+    <string name="scan_btn">Сканировать</string>
+    <string name="main_error">Ошибка</string>
+
+    <string name="result_success_text">Успешно</string>
+    <string name="result_fail_text">Что-то пошло не так</string>
+    <string name="result_null_text">Вход был отменён</string>
+    <string name="close_btn">Закрыть</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="history_title">История посещений</string>
+    <string name="login_unauthorized">Неправильное имя пользователя или пароль</string>
+    <string name="search_hint">Введите логин сотрудника</string>
+    <string name="block_btn">Заблокировать</string>
+    <string name="unblock_btn">Разблокировать</string>
+    <string name="admin_unauthorized">Вы не авторизованы</string>
+    <string name="admin_forbidden">Нет доступа</string>
+    <string name="not_found">404\nСотрудник не найден</string>
+    <string name="starter_tiser">Добро пожаловать в</string>
+    <string name="starter_tiser_accent">S Company Pass</string>
+    <string name="description">Просмотр посещений и электронный пропуск в одном приложении</string>
+    <string name="admin_btn">Админ</string>
+
+
+</resources>
